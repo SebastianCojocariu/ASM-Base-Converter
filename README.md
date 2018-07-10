@@ -1,7 +1,7 @@
 Sebastian Cojocariu 321CB UPB ACS                                         
  
-	                                		Conversie a unor numere intr-o baza 
-					                      aleatorie intre 2 si 16
+	                                	Conversie a unor numere intr-o baza 
+					             aleatorie intre 2 si 16
 
 Ideea de baza consta in a creea un for in care o sa "mapam" toate 
 perechile (nums_array[i],base_array[i]) pentru a putea face convertirea ceruta.
