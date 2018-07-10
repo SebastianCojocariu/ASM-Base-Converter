@@ -1,9 +1,11 @@
 Sebastian Cojocariu 321CB UPB ACS                                         
  
-	                                			Conversie a unor numere intr-o baza 
-					                                    aleatorie intre 2 si 16
+	                                		Conversie a unor numere intr-o baza 
+					                      aleatorie intre 2 si 16
 
-	Ideea de baza consta in a creea un for in care o sa "mapam" toate perechile (nums_array[i],base_array[i]) pentru a putea face convertirea ceruta.Acest for are drept contor registrul ecx,care initial va fi 0.
+	Ideea de baza consta in a creea un for in care o sa "mapam" toate 
+perechile (nums_array[i],base_array[i]) pentru a putea face convertirea ceruta.
+Acest for are drept contor registrul ecx,care initial va fi 0.
 
 for:
     Vom retine in cadrul acestui for ,nums_array[i] in registrul eax.
